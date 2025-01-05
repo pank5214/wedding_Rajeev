@@ -15,7 +15,6 @@ const WeddingDetails = () => {
             </div>
 
             <div className="wedding-details margin-bottom">
-
               <div className="w-detail left">
                 <i className="icon icon-cake"></i>
                 <h4 className="title">मण्डपाच्छादन एवं हल्दी कलश</h4>
@@ -31,34 +30,44 @@ const WeddingDetails = () => {
 
               <div className="w-detail right">
                 <i className="icon icon-cake"></i>
-                <h4 className="title">मातृकापूजन</h4>
+                <h4 className="title">मातृकापूजन एवं बारात प्रस्थान</h4>
                 <h5>Thrusday, 13th February 2025</h5>
                 <p>
                   Matrikapujan is a sacred ritual in Hindu marriage, Honoring
                   divine mothers with prayers and homage. Seeking their
                   blessings for a prosperous life ahead, It sanctifies the
-                  union, where love is widespread.
+                  union, where love is widespread. The procession, or Baraat,
+                  begins with the groom's family and friends joyously
+                  accompanying him to the wedding venue with music, dance, and
+                  festive cheer.
                 </p>
               </div>
 
               <div className="w-detail left">
                 <i className="icon icon-ciurclke"></i>
-                <h4 className="title">
-                  बारात प्रस्थान एवं रात्रि में शुभ विवाह
-                </h4>
+                <h4 className="title">रात्रि में शुभ विवाह</h4>
                 <h5>Friday, 14th February 2025</h5>
                 <p>
-                  The procession, or Baraat, begins with the groom's family and
-                  friends joyously accompanying him to the wedding venue with
-                  music, dance, and festive cheer. Upon arrival, traditional
-                  rituals unfold, including welcoming ceremonies by the bride's
-                  family. The evening culminates in the auspicious marriage
-                  ceremony, where sacred vows are exchanged, sealing the
-                  couple's bond under the blessings of elders and deities.
+                  Upon Baraat arrival, traditional rituals unfold, including
+                  welcoming ceremonies by the bride's family. The evening
+                  culminates in the auspicious marriage ceremony, where sacred
+                  vows are exchanged, sealing the couple's bond under the
+                  blessings of elders and deities.
                 </p>
               </div>
 
               <div className="w-detail right">
+                <i className="icon icon-ciurclke"></i>
+                <h4 className="title">वधू आगमन</h4>
+                <h5>Saturday, 15th February 2025</h5>
+                <p>
+                  The bride’s arrival is a moment of grace, A radiant smile
+                  lights up her face. Draped in beauty, she steps with pride, A
+                  symbol of love, soon to be a bride.
+                </p>
+              </div>
+
+              <div className="w-detail left">
                 <i className="icon icon-wine-glass"></i>
                 <h4 className="title">
                   Reception
@@ -76,7 +85,7 @@ const WeddingDetails = () => {
                 </p>
               </div>
 
-              <div className="w-detail left">
+              <div className="w-detail right">
                 <i className="icon icon-camera"></i>
                 <h4 className="title">PHOTOGRAPHY</h4>
                 <p>
